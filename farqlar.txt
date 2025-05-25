@@ -1,0 +1,6 @@
+html collection- jonli royxat dom o‘zgarsa bu royxat ham avtomatik o‘zgaradi va foreach ishlamaydi 
+nodelist - oddiy royxat dom o‘zgarsa bu royxat o‘zgarmaydi va foreach ishlaydi
+
+textcontent - element ichidagi butun matn hatto yashirilgan ham qaytaradi  va tezroq ishlaydi chunki u faqat domdan matn oladi css ni hisobga olmaydi 
+
+innertext - faqat ko‘rinadigan visible matn qaytaradi  va sekinroq chunki brauzer elementni reflow qiladi  yani u matn qanday korinishini hisoblamaydi 
